@@ -1,6 +1,6 @@
 # modular-cubesat-prototype
  A modular CubeSat prototype bridging software, electronics, and telecomms. Driven by a passion for aerospace and embedded systems.
-## Why a CubeSat? 🌌
+## Why a CubeSat?
 This project is driven by two main inspirations:
 
 * **The Intersection of Hardware & Firmware:** Electronics and computer science are my greatest passions and the core of my academic path. Looking ahead, my long-term goal is to build a venture dedicated to the custom design and manufacturing of hardware and firmware for CubeSat applications. 

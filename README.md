@@ -1,7 +1,7 @@
 # modular-cubesat-prototype
  A modular CubeSat prototype bridging software, electronics, and telecomms. Driven by a passion for aerospace and embedded systems.
 > 🚧 **Project Status: Work in Progress (WIP)**  
-> This project is currently under active development. I am currently structuring the initial architecture and firmware modules before starting my classes at UniCa.
+> This project is currently under active development. I am currently structuring the initial architecture and firmware modules.
 
  
 ## Why a CubeSat?

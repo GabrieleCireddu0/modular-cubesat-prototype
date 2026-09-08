@@ -16,4 +16,4 @@ This project is driven by two main inspirations:
 </p>
 
 ## Project images
-* 📂 Browse all images in the [Assets Folder](./assets) of this project.
+Browse all images in the [Assets Folder](./assets) of this project.

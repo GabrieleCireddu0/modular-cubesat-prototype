@@ -14,3 +14,6 @@ This project is driven by two main inspirations:
 <p align="center">
   <img src="assets/cubesat_general_view.jpg" alt="Modular CubeSat Prototype" width="50%">
 </p>
+
+## Project images
+* 📂 Browse all images in the [Assets Folder](./assets) of this project.

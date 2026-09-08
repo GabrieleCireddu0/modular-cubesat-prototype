@@ -10,7 +10,7 @@ This project is driven by two main inspirations:
 * **The Intersection of Hardware & Firmware:** Electronics and computer science are my greatest passions and the core of my academic path. Looking ahead, my long-term goal is to build a venture dedicated to the custom design and manufacturing of hardware and firmware for CubeSat applications. 
 * **Demystifying Space:** Space has always felt distant and inaccessible to "mere mortals". This prototype is my way of breaking that barrier, entering the aerospace ecosystem, and bringing myself as close as possible to the frontier of space exploration.
 
-## System Overview
+## Gallery
 <p align="center">
   <img src="assets/cubesat_general_view.jpg" alt="Modular CubeSat Prototype" width="100%">
 </p>

@@ -15,6 +15,13 @@ This project is driven by two main inspirations:
   <img src="assets/cubesat_general_view.jpg" alt="Modular CubeSat Prototype" width="50%">
 </p>
 
+## Hardware
+* Arduino Nano ESP32(OBC)
+* DHT20(payload trasmitter)
+* 1.3 OLED Display(indicator)
+* Micro-SD reader(not yet configured)
+* Powerbank(temporarily)
+
 ## Code
 Here you can see the [code](./firmware).
 

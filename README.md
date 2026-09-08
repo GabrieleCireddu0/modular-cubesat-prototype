@@ -12,5 +12,5 @@ This project is driven by two main inspirations:
 
 ## Gallery
 <p align="center">
-  <img src="assets/cubesat_general_view.jpg" alt="Modular CubeSat Prototype" width="100%">
+  <img src="assets/cubesat_general_view.jpg" alt="Modular CubeSat Prototype" width="50%">
 </p>

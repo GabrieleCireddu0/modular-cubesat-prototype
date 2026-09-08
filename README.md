@@ -12,5 +12,5 @@ This project is driven by two main inspirations:
 
 ## System Overview
 <p align="center">
-  <img src="./assets/cubesat_general_view.jpg" alt="Modular CubeSat Prototype General View" width="100%">
+  <img src="assets/cubesat_web_interface.jpg" alt="Modular CubeSat Prototype Web Interface" width="100%">
 </p>
